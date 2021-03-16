@@ -6,3 +6,12 @@
 ###### Titulo h6
 Soy un README. Este es el texto normal. Equivalente a un parrafo en mi opinion.
 git
+
+Underline 1
+-----------
+
+Underline 2
+===========
+
+Son alternativas a las cabeceras
+

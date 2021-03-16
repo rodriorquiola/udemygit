@@ -33,3 +33,32 @@ Aqui *combinamos* todos **los** formatos ~~aprendidos~~
 ## Links
 - <a href="https://google.com.py">Link HTML</a>
 - [Link Markdown](https://www.google.com.py)
+- [Link local](index.html)
+
+## Imagenes
+![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+se hace con ! + [nombre] + (ruta)
+
+## Code Snippet
+Usar como referencia la siguiente pagina [highlightjs.com](https://highlightjs.org/static/demo/)
+
+### Codigo en Java
+```JAVA
+    /**
+ * @author John Smith <john.smith@example.com>
+*/
+package l2f.gameserver.model;
+
+public abstract strictfp class L2Char extends L2Object {
+  public static final Short ERROR = 0x0001;
+
+  public void moveTo(int x, int y, int z) {
+    _ai = null;
+    log("Should not be called");
+    if (1 > 5) { // wtf!?
+      return;
+    }
+  }
+}
+
+```
